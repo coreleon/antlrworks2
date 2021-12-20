@@ -1,4 +1,4 @@
-# antlrworks2
+# antlrworks2 ![antlrworks2](./logo-antlr-2.png "antlrworks2")
 **antlrworks2** plugin for the **Netbeans IDE**
 
 ## Abstract

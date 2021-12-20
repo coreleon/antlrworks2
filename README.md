@@ -27,9 +27,24 @@ This repository contains the NBM files to be installed in your Netbeans IDE (cur
  ```console
  antlrworks2_2.5.3.zip: OK
  ```
-5. Unzip the ZIP file
-6. Start your Netbeans 8.2 IDE
-7. Got to ***"Tools > Plugins"***. Select the ***"Downloaded"*** tab
-8. Click ***"Add plugins..."***
-9. Navigate to the folder where you extracted the NBM files.
-10. Enjoy!
+4. Unzip the ZIP file
+5. Start your Netbeans 8.2 IDE
+6. Got to ***"Tools > Plugins"***. Select the ***"Downloaded"*** tab:
+ > ![img_steps_6.jpg](./img_steps_6.jpg "Got to Tools > Plugins. Select the Downloaded tab")
+7. Click ***"Add plugins..."***
+8. Navigate to the folder where you extracted the NBM files:
+ > ![img_steps_8.jpg](./img_steps_8.jpg "Navigate to the folder where you extracted the NBM files")
+9. Press Ctrl+A to select all NBM files in this directory
+ > ![img_steps_9.jpg](./img_steps_9.jpg "Select all NBM files in this directory")
+10. Click **"Open"**
+ > ![img_steps_10.jpg](./img_steps_10.jpg "Select all NBM files in this directory")
+ > Now all NBM files are ready to be installed. Just click **"Install"**
+11. Click **"Next"**
+ > ![img_steps_11.jpg](./img_steps_11.jpg "Accept the license agreement and click Install")
+12. Accept the license agreement and click **"Install"**:
+ > ![img_steps_12.jpg](./img_steps_12.jpg "Accept the license agreement and click Install")
+13. Click **"Continue"**:
+ > ![img_steps_13.jpg](./img_steps_13.jpg "Click Continue")
+14. Click **"Restart"**:
+ > ![img_steps_14.jpg](./img_steps_14.jpg "Click Restart")
+15. Enjoy!

@@ -13,12 +13,22 @@ This repository contains the NBM files to be installed in your Netbeans IDE (cur
 
 ## How to install the plugin
 
-1. Select the version of the plugin in the tags
-2. Download the ZIP file containing all NBM files
-3. Unzip the ZIP file
-4. Start your Netbeans 8.2 IDE
-5. Got to ***"Tools > Plugins"***. Select the ***"Downloaded"*** tab
-6. Click ***"Add plugins..."***
-7. Navigate to the folder where you extracted the NBM files.
-8. Enjoy!
-9. 
+1. Navigate into the [`distributions`](./distributions) directory and select the version of the plugin (for example **`antlrworks2_2.5.3.zip`**)
+2. Download the ZIP file containing all NBM files and its corresponding SHA512 checksum (for example **`antlrworks2_2.5.3.zip`** + **`antlrworks2_2.5.3.zip.sha512`**)
+3. Verify that your downloaded file is not corrupt:
+ >
+ ```console
+ $ sha512sum -c antlrworks2_2.5.3.zip.sha512
+ ```
+ You should see:
+  >
+ ```console
+ antlrworks2_2.5.3.zip: OK
+ ```
+5. Unzip the ZIP file
+6. Start your Netbeans 8.2 IDE
+7. Got to ***"Tools > Plugins"***. Select the ***"Downloaded"*** tab
+8. Click ***"Add plugins..."***
+9. Navigate to the folder where you extracted the NBM files.
+10. Enjoy!
+11. 

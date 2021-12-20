@@ -38,7 +38,9 @@ This repository contains the NBM files to be installed in your Netbeans IDE (cur
  > ![img_steps_9.jpg](./img/img_steps_9.jpg "Select all NBM files in this directory")
 10. Click **"Open"**
  > ![img_steps_10.jpg](./img/img_steps_10.jpg "Select all NBM files in this directory")
- > Now all NBM files are ready to be installed. Just click **"Install"**
+
+Now all NBM files are ready to be installed. Just click **"Install"**
+
 11. Click **"Next"**
 12. Accept the license agreement and click **"Install"**.
 13. Click **"Continue"**:
